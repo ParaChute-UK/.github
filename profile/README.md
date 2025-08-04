@@ -1,6 +1,6 @@
 # ParaChute Programme
 ## About
-[ParaChute](https://www.metoffice.gov.uk/research/approach/collaboration/parachute) is a research programme jointly funded by [UKRI](https://www.ukri.org/) and the [Met Office](https://www.metoffice.gov.uk/), aiming to greatly increase the understanding of convective turbulence in km- and sub-km-scale numerical weather prediction models.  
+[ParaChute](https://www.metoffice.gov.uk/research/approach/collaboration/parachute) is a research programme jointly funded by [UKRI](https://www.ukri.org/) and the [Met Office](https://www.metoffice.gov.uk/), aiming to greatly increase the understanding and representation of convective turbulence in km- and sub-km-scale numerical weather prediction models.  
 
 This GitHub organisation exists to collect code developed as part of, or strongly associated with, the ParaChute programme.  We aim to encourage open source code-sharing and collaboration both within the ParaChute programme, and hopefully beyond to the wider atmospheric convection and turbulence research communities.
 
