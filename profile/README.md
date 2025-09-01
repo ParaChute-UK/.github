@@ -35,11 +35,5 @@ If you haven't placed your code in a repository yet, you can use the [template r
  - If your repository contains general-purpose code likely to be used and developed by multiple people, we recommend a minimum of three repository owners.  This means that even if somebody leaves, two code owners remain.
  - We recommend development is carried out in branches rather than by forking repositories, as this is simpler for the size of repositories we envisage hosting.
  - If your repository has more than one owner, we recommend that all pull requests to the main branch of your repository are reviewed.
+ - If you have any suggestions for improving the organisation, **please let us know using the [discussion page](https://github.com/orgs/ParaChute-UK/discussions)!**
 
-### Further details
-To be updated.
-#### PIP/Conda installation
-#### Licenses
-#### Minimal Working Examples
-#### Documentation
-#### Testing
